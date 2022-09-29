@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/JulianePires/ProjetoDistribuido)
-![GitHub language count](https://img.shields.io/github/languages/count/JulianePires/ProjetoDistribuido)
-![GitHub forks](https://img.shields.io/github/forks/JulianePires/ProjetoDistribuido)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/JulianePires/ProjetoDistribuido)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/JulianePires/ProjetoDistribuido)
+![GitHub repo size](https://img.shields.io/github/repo-size/JulianePires/Foodelivery_backen)
+![GitHub language count](https://img.shields.io/github/languages/count/JulianePires/Foodelivery_backend)
+![GitHub forks](https://img.shields.io/github/forks/JulianePires/Foodelivery_backend)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/JulianePires/Foodelivery_backend)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/JulianePires/Foodelivery_backend)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
