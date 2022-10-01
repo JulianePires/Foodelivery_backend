@@ -33,7 +33,7 @@ Para instalar o <Foodelivery_backend>, siga estas etapas:
 
 Linux, Windows e macOS:
 ```
-npm
+npm install
 ```
 
 ## ☕ Usando <Foodelivery_backend>
